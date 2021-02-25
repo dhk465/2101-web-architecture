@@ -60,7 +60,7 @@ app.use('/static', express.static('public'))
 
 or with an absolute path method
 ```js
-app.use('/static', express.static(path.join(__dirname, 'public')))
+app.use('/static', express.static(__dirname, 'public'))
 ```
 
 - - - -
