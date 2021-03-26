@@ -1,0 +1,19 @@
+{
+  "name": "progressio",
+  "version": "0.0.1",
+  "description": "Progression Tracker for your favorite games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhk465/2101-web-architecture.git"
+  },
+  "author": "Daehee Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhk465/2101-web-architecture/issues"
+  },
+  "homepage": "https://github.com/dhk465/2101-web-architecture#readme"
+}
