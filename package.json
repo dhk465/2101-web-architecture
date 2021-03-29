@@ -11,9 +11,15 @@
     "url": "git+https://github.com/dhk465/2101-web-architecture.git"
   },
   "author": "Daehee Kim",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dhk465/2101-web-architecture/issues"
   },
-  "homepage": "https://github.com/dhk465/2101-web-architecture#readme"
+  "homepage": "https://github.com/dhk465/2101-web-architecture#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.12.2"
+  }
 }
