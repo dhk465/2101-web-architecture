@@ -14,6 +14,10 @@ const userSchema = new mongoose.Schema({
     required: true,
     default: Date.now
   },
+  lastLogin: {
+    type: Date,
+    required: false
+  },
   email: {
     type: String,
     required: false
